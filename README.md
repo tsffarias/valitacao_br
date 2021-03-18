@@ -1,4 +1,4 @@
-<h2 align="center">Valitação BR :brazil: :sunglasses:</h2> 
+<h2 align="center">Valitação BR :heavy_check_mark:</h2> 
 
 ---
 
